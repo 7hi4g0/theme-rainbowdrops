@@ -1,0 +1,22 @@
+{
+    "name": "theme-rainbowdrops",
+    "displayName": "theme-rainbow-drops",
+    "description": "Colorfull dark theme",
+    "version": "0.0.1",
+    "publisher": "tandrade",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rainbow Drops",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rainbow_Drops.tmTheme"
+            }
+        ]
+    }
+}
