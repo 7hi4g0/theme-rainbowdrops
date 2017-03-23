@@ -35,21 +35,21 @@
 				<key>lineHighlight</key>
 				<string>#363636</string>
 				<key>rangeHighlight</key>
-				<string>#F3F0F5</string>
+				<string>#4E4E4E</string>
 
 				<key>selection</key>
 				<string>#3E515DC0</string>
 				<key>inactiveSelection</key>
-				<string>#BF0D1CC0</string>
+				<string>#94CEEF40</string>
 				<key>selectionHighlight</key>
 				<string>#94CEEF80</string>
 
 				<key>findRangeHighlight</key>
-				<string>#3A3D4180</string>
+				<string>#7C7C7C</string>
 				<key>findMatchHighlight</key>
-				<string>#EA5C0080</string>
+				<string>#484848</string>
 				<key>currentFindMatchHighlight</key>
-				<string>#515C6A80</string>
+				<string>#335A72</string>
 
 				<key>wordHighlight</key>
 				<string>#77577740</string>
